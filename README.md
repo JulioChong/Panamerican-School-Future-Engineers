@@ -34,4 +34,4 @@ Src
 
 
 # Introduction
-
+This robot was created using LEGO materials that connected perfectly with the EV3 Home Set, which consists of 1 EV3 Brick, 2 large motors, 3 infrared sensor, 1 color sensor, cables, and USB cable. The code used to program this vehicle was LEGO Mindstroms Education EV3 Classroom, which was perfect to use since as mentioned earlier, the robot was created using LEGO materials.
